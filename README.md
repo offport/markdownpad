@@ -8,6 +8,17 @@ MarkdownPad is a single self-contained HTML file (~400 KB) that bundles a markdo
 
 Your notes are stored in the browser's own `localStorage`, scoped to wherever you open the file from. Nothing is ever sent anywhere.
 
+## Screenshots
+
+|  |  |
+|---|---|
+| ![Light theme — split editor and preview](screenshots/light-theme.png) | ![Hacker theme — dark, green-on-black with scanlines](screenshots/hacker-theme.png) |
+| Light theme | Hacker theme |
+
+![Export menu — save as Markdown/HTML/PDF, copy rendered HTML, back up or import notes](screenshots/export-menu.png)
+
+Export menu
+
 ## Getting started
 
 1. Download `markdownpad.html`.
