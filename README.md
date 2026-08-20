@@ -10,14 +10,14 @@ Your notes are stored in the browser's own `localStorage`, scoped to wherever yo
 
 ## Screenshots
 
-|  |  |
-|---|---|
-| ![Light theme — split editor and preview](screenshots/light-theme.png) | ![Hacker theme — dark, green-on-black with scanlines](screenshots/hacker-theme.png) |
-| Light theme | Hacker theme |
+Light theme
+![Light theme — split editor and preview](screenshots/light-theme.png)
 
-![Export menu — save as Markdown/HTML/PDF, copy rendered HTML, back up or import notes](screenshots/export-menu.png)
+Hacker theme
+![Hacker theme — dark, green-on-black with scanlines](screenshots/hacker-theme.png)
 
 Export menu
+![Export menu — save as Markdown/HTML/PDF, copy rendered HTML, back up or import notes](screenshots/export-menu.png)
 
 ## Getting started
 
