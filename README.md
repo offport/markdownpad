@@ -10,6 +10,10 @@ Your notes are stored in the browser's own `localStorage`, scoped to wherever yo
 
 ## Screenshots
 
+First run — a private browsing window with no notes yet; the built-in welcome note opens in the split view.
+
+<p><img src="screenshots/first-run-desktop.png" width="640" alt="First run: the welcome note in the split editor and preview"> <img src="screenshots/first-run-phone.png" width="213" alt="First run on a phone: the editor with the toolbar"></p>
+
 Light theme
 ![Light theme — split editor and preview](screenshots/light-theme.png)
 
